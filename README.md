@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋,I am Ziyang
+
+I want to make programming a daily habit and do something in open source😄.
 
 <!--
 **pojiang20/pojiang20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
